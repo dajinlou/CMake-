@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libsort.a  CMakeFiles/sort.dir/heapSort.cpp.o CMakeFiles/sort.dir/quickSort.cpp.o
+/usr/bin/ranlib ../../lib/libsort.a

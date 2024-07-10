@@ -1,0 +1,3 @@
+/home/test/vscodeProject/src/demo03/build/CMakeFiles/rebuild_cache.dir
+/home/test/vscodeProject/src/demo03/build/CMakeFiles/edit_cache.dir
+/home/test/vscodeProject/src/demo03/build/CMakeFiles/calc.dir

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/test/vscodeProject/src/demo02/src/add.cpp
+head.h
+/home/test/vscodeProject/src/demo02/src/head.h
+iostream
+-
+
+/home/test/vscodeProject/src/demo02/src/div.cpp
+head.h
+/home/test/vscodeProject/src/demo02/src/head.h
+iostream
+-
+
+/home/test/vscodeProject/src/demo02/src/main.cpp
+head.h
+/home/test/vscodeProject/src/demo02/src/head.h
+iostream
+-
+
+/home/test/vscodeProject/src/demo02/src/mult.cpp
+head.h
+/home/test/vscodeProject/src/demo02/src/head.h
+iostream
+-
+
+/home/test/vscodeProject/src/demo02/src/sub.cpp
+head.h
+/home/test/vscodeProject/src/demo02/src/head.h
+iostream
+-
+

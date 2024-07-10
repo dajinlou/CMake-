@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/test/vscodeProject/src/multi/test1/test1.cpp
+head.h
+/home/test/vscodeProject/src/multi/test1/head.h
+iostream
+-
+

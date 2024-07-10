@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/app1.dir/test1.cpp.o  -o ../../bin/app1  -L/home/test/vscodeProject/src/multi/lib -rdynamic ../../lib/libcalc.a -Wl,-rpath,/home/test/vscodeProject/src/multi/lib 

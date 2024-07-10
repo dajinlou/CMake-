@@ -1,0 +1,10 @@
+# 这是CMakeLists文件  编写Cmake文件
+
+#指定使用的camke的最低版本
+cmake_minimum_required(VERSION 3.0)
+
+#指定项目名称
+project(test)
+
+# 生成一个可执行程序 源文件通过空格 或则分号
+add_executable(app add.cpp div.cpp mult.cpp main.cpp sub.cpp)

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/app2.dir/test2.cpp.o  -o ../../bin/app2  -L/home/test/vscodeProject/src/multi/lib -rdynamic ../../lib/libsort.a -Wl,-rpath,/home/test/vscodeProject/src/multi/lib 

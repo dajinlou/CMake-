@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sort.h
+vector
+-
+
+/home/test/vscodeProject/src/multi/test2/test2.cpp
+iostream
+-
+sort.h
+/home/test/vscodeProject/src/multi/test2/sort.h
+vector
+-
+
